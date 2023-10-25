@@ -4,22 +4,19 @@ This repository is a parent repository for my UI/UX design projects. These proje
 
 **Project Screenshots**
 
-  
-![Screenshot 2023-10-13 230759](https://github.com/Boahan/CODSOFT/assets/111555189/e01357a7-7b5d-4453-bd26-71a406dce090)
+  ![image](https://github.com/Boahan/Naukri/assets/111555189/96e43253-41b6-4b5d-8510-343a7574d8fb)
+
+
+![Screenshot 2023-10-26 000328](https://github.com/Boahan/Naukri/assets/111555189/c3a41445-c824-4f2f-b616-90281bae2f3e)
 
 
 
-
-
-  
-![Screenshot 2023-10-15 100203](https://github.com/Boahan/CODSOFT/assets/111555189/abfcfddd-26fe-4319-8453-91e8fd84ec56)
-
-
-
-
+![Screenshot 2023-10-26 000340](https://github.com/Boahan/Naukri/assets/111555189/c7c64baf-5ce0-476a-9438-72fd1e6b4c36)
 
   
-![image](https://github.com/Boahan/CODSOFT/assets/111555189/d35a91b1-47f6-4f25-91e3-55d2d42ddf65)
+
+
+  ![image](https://github.com/Boahan/Naukri/assets/111555189/3051ef33-55e1-4b9f-bf92-b3e6a04a6625)
 
 
 
