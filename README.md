@@ -1,6 +1,7 @@
 # Naukri
 
-This repository is a parent repository for my UI/UX design projects. These projects are mostly front-end and are made by me to showcase and refine my front-end skills.
+This is a job opening website that allows job seekers to search for jobs and employers to post job openings.
+
 
 **Project Screenshots**
 
